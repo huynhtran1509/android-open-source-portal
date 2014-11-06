@@ -1,10 +1,14 @@
 var repos = [
 				"OAK",
+   				"trafficcop",
+   				"saguaro",
+   				"resPeeker",
   				"lint-trap",
    				"brewthumbsup-android",
+   				"hockeyapp-maven-plugin",
    				"maven-testflight-plugin",
    				"gradle-testflight-plugin",
-   				"ci-teamcity-testflight-plugin",
+   				"ci-teamcity-testflight-plugin"
    			].sort();
 var repoTemplate;
 
